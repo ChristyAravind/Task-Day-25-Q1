@@ -39,3 +39,6 @@ label,p{
     font-family:'Trebuchet MS';
     font-weight: bolder;
 }
+#day{
+    border-radius: 20px;
+}
