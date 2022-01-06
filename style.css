@@ -6,6 +6,7 @@ body{
     display: flex;
     gap: 37px;
     margin: 10px;
+    flex-wrap: wrap;
     
 }
 .eday{
@@ -14,6 +15,7 @@ body{
 .flex-container{
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .fbox1,.fbox2,.fbox3{
