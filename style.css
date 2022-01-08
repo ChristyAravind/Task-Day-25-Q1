@@ -42,3 +42,14 @@ label,p{
 #day{
     border-radius: 20px;
 }
+@media (max-width: 965px) {
+    .fbox1{
+        width: 100%;
+    }
+    .fbox2{
+        width: 100%;
+    }
+    .fbox3{
+        width: 100%;
+    }
+}
